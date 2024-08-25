@@ -20,4 +20,8 @@ Transmission-Guided Multi-Color Space Embedding](./material/2104.13015v1.pdf)
 
 ----
 
-> **`NOTE:`** create a `/datasets` folder in root folder and store there after downloading.
+> **`NOTE:`**
+> 
+> 1. create a `/datasets` folder in root folder and store there after downloading.
+> 2. Always pull before working on repo and notify in group if pushed anything.
+>
