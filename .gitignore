@@ -1,0 +1,4 @@
+.markdownlint.json
+
+/datasets/*
+!/datasets/README.md
