@@ -2,3 +2,5 @@
 
 /datasets/*
 !/datasets/README.md
+
+/dsie-env/*
