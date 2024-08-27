@@ -1,4 +1,5 @@
 # Deep Sea Image Enhancement
+![](https://github.com/iamv1n/Deep-Sea-IE/blob/main/assets/DSIE.png)
 
 ## Abstract
 
