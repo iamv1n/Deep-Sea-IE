@@ -5,7 +5,7 @@
 
 The Deep Sea Image Enhancement project aims to improve visual perception in underwater environments. By applying advanced image processing techniques, we enhance the quality of underwater images, making them clearer and more visually appealing. This project also includes a physical model-guided framework for depth estimation, which provides valuable information about the underwater scene. Through the use of state-of-the-art algorithms and the analysis of relevant research papers, we strive to push the boundaries of underwater imaging and contribute to the field of marine exploration and research.
 
-## Study anmd Research Materials
+## Study and Research Materials
 
 ### Papers for Reference
 
