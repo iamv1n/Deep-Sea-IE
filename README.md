@@ -5,11 +5,6 @@
 
 The Deep Sea Image Enhancement project aims to improve visual perception in underwater environments. By applying advanced image processing techniques, we enhance the quality of underwater images, making them clearer and more visually appealing. This project also includes a physical model-guided framework for depth estimation, which provides valuable information about the underwater scene. Through the use of state-of-the-art algorithms and the analysis of relevant research papers, we strive to push the boundaries of underwater imaging and contribute to the field of marine exploration and research.
 
-<<<<<<< HEAD
-## Study and Research Materials
-=======
->>>>>>> 010271e (Upload Files)
-
 
 TensorFlow and PyTorch implementations of the paper *[Fast Underwater Image Enhancement for Improved Visual Perception (RA-L 2020)](https://ieeexplore.ieee.org/document/9001231)* and other GAN-based models.
 
